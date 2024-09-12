@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Unity WebGL-0.1";
 const contentToCache = [
-    "Build/New folder.loader.js",
-    "Build/New folder.framework.js",
-    "Build/New folder.data",
-    "Build/New folder.wasm",
+    "Build/New folder (2).loader.js",
+    "Build/New folder (2).framework.js",
+    "Build/New folder (2).data",
+    "Build/New folder (2).wasm",
     "TemplateData/style.css"
 
 ];
